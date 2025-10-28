@@ -1,6 +1,7 @@
 <img src="https://github.com/KidsWithTokens/.github/blob/main/imprint_group.png" width="400" height="300" />
 
-AI research lab, open source, computational anatomy
+Open source AI lab. 
+Imprint AI with humanity
 
 
 
