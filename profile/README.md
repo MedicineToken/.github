@@ -1,6 +1,6 @@
 <img src="https://github.com/KidsWithTokens/.github/blob/main/imprint_group.png" width="400" height="300" />
 
-Open source, AI, Science, Humanity
+Open Source, AI, Science, Humanity
 
 
 
