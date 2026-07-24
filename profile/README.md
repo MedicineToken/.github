@@ -1,8 +1,6 @@
 <img src="https://github.com/KidsWithTokens/.github/blob/main/imprint_group.png" width="400" height="300" />
 
-Open Source, AI, Science, Humanity
-
-Imprint, Make A Dent
+Imprint machines with human quality
 
 
 
