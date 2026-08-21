@@ -6,7 +6,7 @@ Imprint machines with human quality
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### backed by:
+### with:
 <p align="left">
   <img src="https://github.com/KidsWithTokens/.github/blob/main/university-of-oxford-logo-1.png.webp" width="100" height="100" />
   <img src="https://github.com/KidsWithTokens/.github/blob/main/cmu-logo.png" width="100" height="100" />
